@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Espitia Cerra</h1>
-<h3 align="center">A passionate software developer from Colombia, working with native mobile apps and libraries.</h3>
+<h3 align="center">A passionate software developer from Colombia, Coffee lover, starting in digital nomad, working in mobile projects (Android, iOS & Flutter)</h3>
+
+- 🔭 I’m currently working on [albo (Digital Bank)](https://www.albo.mx/)
 
 - 💬 Ask me about **kotlin, dart, swift, java, javascript, strapi, SQL...**
 
@@ -7,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivan espitia cerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan espitia cerra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-ricardo-espitia-cerra-990ab790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-ricardo-espitia-cerra-990ab790" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
