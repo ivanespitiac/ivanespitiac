@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Espitia Cerra</h1>
 <h3 align="center">A passionate software developer from Colombia, Coffee lover, starting in digital nomad, working in mobile projects (Android, iOS & Flutter)</h3>
 
-- 🔭 I’m currently working on [albo (Digital Bank)](https://www.albo.mx/)
+- 🔭 I’m currently working on [Wizeline](wizeline.com)
 
 - 💬 Ask me about **kotlin, dart, swift, java, javascript, strapi, SQL...**
 
